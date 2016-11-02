@@ -1,0 +1,13 @@
+/* style.css - custom styles */
+
+body {
+	padding-top:70px; /* prevents navbar-fixed-top from covering jumbotron on small screens */
+}
+
+.demobtn {
+   width:150px;
+}
+
+.navbar-brand {
+	margin-top:-7px; /* vertically centers logo in navbar */
+}
